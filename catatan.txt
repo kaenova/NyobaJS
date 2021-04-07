@@ -1,0 +1,2 @@
+dokumentasi
+https://developer.mozilla.org/id/docs/Web/JavaScript
